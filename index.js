@@ -1,7 +1,4 @@
 var fs = require('fs');
-
-
-var fs = require('fs');
 var colors = require('colors');
 
 fs.readdir('./', 'utf-8', function(err, data) {
